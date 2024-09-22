@@ -1,0 +1,48 @@
+---
+title: "EHtik mundura zabaltzeko ikerkuntza 📹"
+subtitle: Titulu automatikoak momentuz in English
+author: "Urlia artaburu"
+date: today
+format: ehu-revealjs
+---
+
+# Lehenengo mailako goiburua
+
+## Bigarrenekoa
+
+Hemen dago dokumentuaren edukia. Hau da, paragrafo bat Markdown formatuan idatzita.
+
+- Zerrenda elementua 1
+- Zerrenda elementua 2
+- Zerrenda elementua 3
+
+**Testu lodia** eta *testu etzana* ere erabil daitezke.
+
+--- 
+
+goibururik ez daukan diapoa
+
+[Esteka bat](https://www.example.com) gehitu daiteke ere.
+
+> Bloke bat ere gehitu dakioke.
+>
+> -- *Verendia Çupipecoa*
+
+---
+
+::: {.callout-note}
+## Ohar izenburuduna
+Nire ohar izenburudunaren testua
+:::
+
+##
+
+::: {.callout-warning}
+## Hi! Hau kontuan izatekoa duk/n
+Hi, ez ahaztu hurrengu
+Garrantzi handikoa izan litekeelakoan, hartu egik/n kontuan hauxe
+:::
+
+## Bideoa txertatzeko bidea
+
+{{< video https://www.youtube.com/embed/GD-6t-qxw6k >}}

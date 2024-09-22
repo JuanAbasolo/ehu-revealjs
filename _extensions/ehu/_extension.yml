@@ -1,0 +1,20 @@
+title: ehu-revealjs
+author: Juan Abasolo
+version: 0.0.1
+quarto-required: ">=1.5.55"
+contributes:
+  formats:
+    revealjs:
+      theme: [dark, nire_ehu.scss]
+      css: 'logo.css'
+      slide-number: true
+      # highlight-style: github-dark
+      footer: |
+        <a href="https://ehu.eus/">UPV/EHU</a>
+        |
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">License: CC-BY-SA-4.0</a>
+      logo: logo-ehu.jpg
+      lang: eu
+  date-format: iso
+  language: eu/_language-eu.yml
+  csl: eu/apa-eu.csl

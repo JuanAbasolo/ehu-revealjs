@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/juanabasolo/ehu-revealjs)](LICENSE)
 <!-- badges: end -->
 
-UPV/EHU unibertsitateko [tipografiaz](https://www.ehu.eus/eu/web/gizartea/ehu-tipografia) egiten ditu diapositibak. Eskuma-beheko bazterrean unibertsitateko logoa ere badu. --  UPV/EHU (University of Baskland) creates slides with [its own typography](https://www.ehu.eus/eu/web/gizartea/ehu-tipografia). The university logo is also present in the bottom right corner.
+UPV/EHU unibertsitateko [tipografiaz](https://www.ehu.eus/eu/web/gizartea/ehu-tipografia) egiten ditu diapositibak. Eskuma-beheko bazterrean unibertsitateko [logoa](https://www.ehu.eus/eu/web/gizartea/upv-ehuren-logo-orokorrak) ere badu. --  UPV/EHU (University of Baskland) creates slides with [its own typography](https://www.ehu.eus/eu/web/gizartea/ehu-tipografia). The university logo is also present in the bottom right corner.
 
 
 Aldatu behar izatera, logo-ehu.jpg fitxategia ordezkatu edota `_extensions/ehu/_extension.yml` fitxategian `logo` aldagaian norberarena ipini eta karpeta berean kokatu.

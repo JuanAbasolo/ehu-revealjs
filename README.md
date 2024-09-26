@@ -13,7 +13,7 @@ Fitxategian bertan ere alda litezke beheko testu eta estekak.
 
 This is a repository for `Quarto` `revealjs` template.
 
-[![](txantiloia.png)](https://m.canouil.dev/quarto-revealjs-coeos/)
+[![](txantiloia.png)]()
 
 ## Instalatzea - Installation
 S

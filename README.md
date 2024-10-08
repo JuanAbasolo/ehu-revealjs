@@ -52,25 +52,6 @@ Beharrezkoak:
 
 ## Diapoak
 
-**Nagusiak**, agintzen dutenak:  
-<iframe width="800" height="400" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/0-nausija-speaker.html">
-  Ez da ikusten? :_( 
-</iframe>
-
-<iframe width="350" height="200" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/1-a_erderaz.html">
-  Ez da ikusten? :_( 
-</iframe> <iframe width="350" height="200" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/1-hamengo_euskeri.html">
-  Ez da ikusten? :_( 
-</iframe>
-
-<iframe width="350" height="200" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/1-lunfa.html">
-  Ez da ikusten? :_( 
-</iframe> <iframe width="350" height="200" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/1-tano_nahi.html">
-  Ez da ikusten? :_( 
-</iframe>
-
-### Estekak
-
 + Nagusiak  
   Hemendik agintzen zaie besteei:  
   https://juanabasolo.github.io/ehu-revealjs/0-nausija-speaker.html

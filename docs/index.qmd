@@ -1,6 +1,6 @@
 ---
 title: Aurkezpen eleaniztun paraleluak
-subtitle: revealjs eta multiplex erabilita
+subtitle: Quarto, revealjs eta multiplex erabilita
 ---
 
 **Nagusiak**, agintzen die besteei zer erakutsi:  

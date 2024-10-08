@@ -1,0 +1,40 @@
+---
+title: "Euskara bantuaz diapo nagusiak"
+subtitle: Aurkezpen elebakar anitz koordinatuak
+author: "Verendia Guibelandia-Artaburu"
+output-dir: ../diapuk
+date: today
+format: 
+    ehu-revealjs:
+        embed-resources: true
+        multiplex: 
+            id: '2ca248311b2d7b73'
+            secret: '17283948361363936897'
+---
+
+# Aurkezpena
+
+## Garatu beharreko kontzeptua
+
+. . .
+
+Hasiera
+
+. . .
+
+Garapena
+
+. . .
+
+Amaiera
+
+## Kontuan izatekoa
+
+::: {.callout-note}
+## Ahaztuz gero
+Akabo
+:::
+
+# Atzezpena
+
+## Agur

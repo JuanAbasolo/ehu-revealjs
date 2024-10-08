@@ -16,7 +16,7 @@ This is a repository for `Quarto` `revealjs` template.
 [![](txantiloia.png)]()
 
 ## Instalatzea - Installation
-S
+
 Hau da [Quarto](quarto.org) gehigarria, hurrengo komandoa erabiliz instalatu/erabili daitekeena:
 
 This [Quarto](quarto.org) extension can be installed/used using the following command:
@@ -30,3 +30,23 @@ This [Quarto](quarto.org) extension can be installed/used using the following co
   ```bash
   quarto use template juanabasolo/ehu-revealjs
   ```
+
+---
+
+# Diapositiben aurkezpen eleanitz paraleloa
+
+Revealjs eta Multiplex erabilita egin dira. Modurik eleganteena ez bada ere, badabil.
+
+Iturriak:
+
++ https://quarto.org/docs/presentations/revealjs/presenting.html#multiplex
++ https://github.com/reveal/multiplex/issues/40
+
+Beharrezkoak:
+
++ Diapositibek egitura bera behar dute
++ YAML buruan multiplex deituta egon behar da
+  + `ID` bat behar dute
+  + `Secret` bat behar dute
+  + Diapo bakoitzerako sortzen dira diapositiba umeak eta guraso (speaker). Diapositiba nagusiena izan ezik, besteak jaurti behar/ahal dira.
+

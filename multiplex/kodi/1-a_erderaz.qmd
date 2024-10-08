@@ -1,0 +1,40 @@
+---
+title: "(ahuntz) erderazko diapopoak"
+subtitle: Aurkezpen elebakar anitz koordinatuak
+author: "Veperependidiapa Guipibepelapandipiapa"
+output-dir: ../diapuk
+date: today
+format: 
+    ehu-revealjs:
+        embed-resources: true
+        multiplex: 
+            id: '2ca248311b2d7b73'
+            secret: '17283948361363936897'
+---
+
+# <small>Apaupurkepezpepenapa</small>
+
+## <small>Gaparapatupu bebehaparrepekopo konpotzepetupuapa</small>
+
+. . .
+
+Hapasipieperapa
+
+. . .
+
+Gaparapapepenapa
+
+. . .
+
+Apamaipieperapa
+
+## <small>Konpotupuapan ipizapatepekopoapa</small>
+
+::: {.callout-note}
+## Ahapaztupuz geperopo
+Apakapabopo
+:::
+
+# <small>Apatzepezpepenapa</small>
+
+## Apagupur

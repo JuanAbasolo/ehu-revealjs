@@ -1,0 +1,40 @@
+---
+title: "Euskeri erabilita diapo umik"
+subtitle: Aurkezpen elebakar ugari paraleluk
+author: "Verendia Guibelandia-Artaburu"
+output-dir: ../diapuk
+date: today
+format: 
+    ehu-revealjs:
+        embed-resources: true
+        multiplex: 
+            id: '2ca248311b2d7b73'
+            secret: '17283948361363936897'
+---
+
+# Zer dakagun
+
+## Jorittu bihr dan kontzeptu
+
+. . .
+
+Hasikeri
+
+. . .
+
+Jorituti
+
+. . .
+
+Amaijeri
+
+## Kontun eukitteku
+
+::: {.callout-note}
+## Aaztu ezkero
+Akabo
+:::
+
+# Ostepena
+
+## Agur

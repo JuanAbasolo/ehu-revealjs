@@ -1,0 +1,40 @@
+---
+title: "Diapos en lunfa"
+subtitle: Aurkezpen elebakar anitz koordinatuak
+author: 'Dogôr Ladriç Antapufee'
+output-dir: ../diapuk
+date: today
+format: 
+    ehu-revealjs:
+        embed-resources: true
+        multiplex: 
+            id: '2ca248311b2d7b73'
+            secret: '17283948361363936897'
+---
+
+# Isa!
+
+## Arranca el chamuyo
+
+. . .
+
+Me extraña, araña
+
+. . .
+
+que siendo mosca
+
+. . .
+
+no me conozca
+
+## Mandando fruta
+
+::: {.callout-note}
+## Si se te pianda
+Garrón
+:::
+
+# Nos tomamos el lopa
+
+## Chaucha

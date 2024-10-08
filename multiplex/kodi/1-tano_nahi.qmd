@@ -1,0 +1,40 @@
+---
+title: "Queste sono scritte in un'altra lingua"
+subtitle: Aurkezpen elebakar anitz koordinatuak
+author: "Dogor Ladriç Antapufee"
+output-dir: ../diapuk
+date: today
+format: 
+    ehu-revealjs:
+        embed-resources: true
+        multiplex: 
+            id: '2ca248311b2d7b73'
+            secret: '17283948361363936897'
+---
+
+# Presentazione
+
+## Concetto da sviluppare
+
+. . .
+
+Inizio
+
+. . .
+
+Sviluppo
+
+. . .
+
+Fine
+
+## Da tenere in considerazione
+
+::: {.callout-note}
+## In caso di dimenticanza
+Un disastro
+:::
+
+# Per finire
+
+## Ciao 

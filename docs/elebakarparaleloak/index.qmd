@@ -15,8 +15,15 @@ subtitle: Quarto, revealjs eta multiplex erabilita
 </iframe>
 
 <iframe width="700" height="350" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-lunfa.html">
+
   Ez da ikusten? :_( 
 </iframe> <iframe width="700" height="350" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-tano_nahi.html">
+  Ez da ikusten? :_( 
+</iframe>
+
+**Azken hau da audientziari pasatu ahal zaio, nagusien paraleloa da, baina ez du agintzen**
+
+</iframe> <iframe width="700" height="350" marginheight="0" marginwidth="0" src="https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/0-nausija.html">
   Ez da ikusten? :_( 
 </iframe>
 
@@ -28,6 +35,9 @@ Segidako esteketatik segi liteke aurkezpena, norberari dagokion hizkuntzan, alda
 + Nagusiak  
   Hemendik agintzen zaie besteei:  
   <https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/0-nausija-speaker.html>
+
++ Nagusiaren kopia (ez du agintzen)  
+  <https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/0-nausija.html> 
 
 + Ahuntzerderaz  
   <https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-a_erderaz.html>

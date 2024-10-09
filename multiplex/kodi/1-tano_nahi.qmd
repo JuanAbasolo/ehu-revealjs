@@ -1,5 +1,5 @@
 ---
-title: "Queste sono scritte in un'altra lingua"
+title: "Queste sono scritte in un'altra lingua 🇮🇹"
 subtitle: Aurkezpen elebakar anitz koordinatuak
 author: "Dogor Ladriç Antapufee"
 date: today

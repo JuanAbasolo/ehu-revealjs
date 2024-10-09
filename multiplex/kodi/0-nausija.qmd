@@ -30,8 +30,8 @@ Amaiera
 ## Kontuan izatekoa
 
 ::: {.callout-note}
-## Ahaztuz gero
-Akabo
+## 
+Ahantziz gero, gureak egin du
 :::
 
 # Atzezpena

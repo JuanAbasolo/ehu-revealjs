@@ -1,5 +1,5 @@
 ---
-title: "(ahuntz) erderazko diapopoak"
+title: "Ahuntzerderazko diapopoak 🐐"
 subtitle: Aurkezpen elebakar anitz koordinatuak
 author: "Veperependidiapa Guipibepelapandipiapa"
 date: today

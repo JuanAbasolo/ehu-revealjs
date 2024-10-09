@@ -1,5 +1,5 @@
 ---
-title: "Euskeri erabilita diapo umik"
+title: "Euskeri erabilita diapo umik 🌱"
 subtitle: Aurkezpen elebakar ugari paraleluk
 author: "Verendia Guibelandia-Artaburu"
 output-dir: ../diapuk

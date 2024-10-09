@@ -5,7 +5,7 @@ author: "Verendia Guibelandia-Artaburu"
 output-dir: ../diapuk
 date: today
 format: 
-    ehu-revealjs:
+    ehuargia-revealjs:
         embed-resources: true
         multiplex: 
             id: '2ca248311b2d7b73'
@@ -38,3 +38,5 @@ Akabo
 # Ostepena
 
 ## Agur
+
+![Osteri ingurun](Buelti_mutilakin_2024-08-22.png)

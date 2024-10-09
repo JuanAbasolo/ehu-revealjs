@@ -1,7 +1,7 @@
 ---
-title: "EHtik mundura zabaltzeko ikerkuntza 📹"
-subtitle: Titulu automatikoak momentuz in English
-author: "Urlia artaburu"
+title: "Ikerketa bat EHtik mundura zabaltzeko 📹"
+subtitle: Kontu automatikoak 😀 orain euskaraz 
+author: "Urlia Artaburu"
 date: today
 format: ehu-revealjs
 ---
@@ -29,6 +29,10 @@ goibururik ez daukan diapoa
 > -- *Verendia Çupipecoa*
 
 ---
+
+::: {.callout-note}
+Nire ohar izenburu bakoaren testua
+:::
 
 ::: {.callout-note}
 ## Ohar izenburuduna

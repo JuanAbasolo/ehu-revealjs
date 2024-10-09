@@ -2,10 +2,9 @@
 title: "(ahuntz) erderazko diapopoak"
 subtitle: Aurkezpen elebakar anitz koordinatuak
 author: "Veperependidiapa Guipibepelapandipiapa"
-output-dir: ../diapuk
 date: today
 format: 
-    ehu-revealjs:
+    ehuargia-revealjs:
         embed-resources: true
         multiplex: 
             id: '2ca248311b2d7b73'
@@ -38,3 +37,5 @@ Apakapabopo
 # <small>Apatzepezpepenapa</small>
 
 ## Apagupur
+
+![Apamapaipieperapakopoapa](Buelti_mutilakin_2024-08-22.png)

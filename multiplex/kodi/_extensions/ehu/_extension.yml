@@ -14,7 +14,7 @@ contributes:
         |
         <a href="https://creativecommons.org/licenses/by-sa/4.0/">License: CC-BY-SA-4.0</a>
       logo: logo-ehu.jpg
-      lang: eu
+      # lang: eu # Quartok momentuz ez dau ezagutzen
+      language: "./ehu/eu/_language-eu.yml"
   date-format: iso
-  language: eu/_language-eu.yml
   csl: eu/apa-eu.csl

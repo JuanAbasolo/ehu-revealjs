@@ -4,7 +4,13 @@
 [![License](https://img.shields.io/github/license/juanabasolo/ehu-revealjs)](LICENSE)
 <!-- badges: end -->
 
+## Gehigarria EHUko estetikaruntz
+
 UPV/EHU unibertsitateko [tipografiaz](https://www.ehu.eus/eu/web/gizartea/ehu-tipografia) egiten ditu diapositibak. Eskuma-beheko bazterrean unibertsitateko [logoa](https://www.ehu.eus/eu/web/gizartea/upv-ehuren-logo-orokorrak) ere badu. --  UPV/EHU (University of Baskland) creates slides with [its own typography](https://www.ehu.eus/eu/web/gizartea/ehu-tipografia). The university logo is also present in the bottom right corner.
+
+Eredu bi daude, iluna `ehu-revealjs`eta argia `ehuargia-revealjs`.
+
+Aurkezpen paralelo eleanitzak txantiloi honekin erakusgai daude, beherago azalduta.
 
 
 Aldatu behar izatera, logo-ehu.jpg fitxategia ordezkatu edota `_extensions/ehu/_extension.yml` fitxategian `logo` aldagaian norberarena ipini eta karpeta berean kokatu.
@@ -13,9 +19,11 @@ Fitxategian bertan ere alda litezke beheko testu eta estekak.
 
 This is a repository for `Quarto` `revealjs` template.
 
-[![](txantiloia.png)]()
+[![`ehu-revealjs` aukera](txantiloia.png)](https://juanabasolo.github.io/ehu-revealjs/ehu/)
 
-## Instalatzea - Installation
+[![`ehuargia-revealjs` aukera](txantiloi_argia.png)](https://juanabasolo.github.io/ehu-revealjs/ehuargia/)
+
+### Instalatzea - Installation
 
 Hau da [Quarto](quarto.org) gehigarria, hurrengo komandoa erabiliz instalatu/erabili daitekeena:
 
@@ -31,11 +39,20 @@ This [Quarto](quarto.org) extension can be installed/used using the following co
   quarto use template juanabasolo/ehu-revealjs
   ```
 
+```yaml
+title: "Nire diapoen izenburua"
+subtitle: Azpi-izenburua nahi izatera, hemen 
+author: "Aurkezlearen Izen Abizenak"
+date: today # edo dagokiona
+format: ehu-revealjs # eredu argirako ehuargia-revealjs
+```
+
 ---
 
-# Diapositiben aurkezpen eleanitz paraleloa
 
-Revealjs eta Multiplex erabilita egin dira. Modurik eleganteena ez bada ere, badabil.
+## Diapositiben aurkezpen eleanitz paraleloa
+
+Revealjs eta Multiplex erabilita egin dira. Modurik eleganteena ez bada ere, badabil. [hemen](https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak) aztergai: 
 
 Iturriak:
 
@@ -54,16 +71,16 @@ Beharrezkoak:
 
 + Nagusiak  
   Hemendik agintzen zaie besteei:  
-  https://juanabasolo.github.io/ehu-revealjs/0-nausija-speaker.html
+  https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/0-nausija-speaker.html
 
 + Ahuntzerderaz  
-  https://juanabasolo.github.io/ehu-revealjs/1-a_erderaz.html
+  https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-a_erderaz.html
 
 + Euskera normalaua  
-  https://juanabasolo.github.io/ehu-revealjs/1-hamengo_euskeri.html
+  https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-hamengo_euskeri.html
 
 + Lunfa  
-  https://juanabasolo.github.io/ehu-revealjs/1-lunfa.html
+  https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-lunfa.html
 
 + Italiora  
-  https://juanabasolo.github.io/ehu-revealjs/1-tano_nahi.html
+  https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-tano_nahi.html

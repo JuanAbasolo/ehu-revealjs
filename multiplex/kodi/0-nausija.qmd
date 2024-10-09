@@ -2,7 +2,6 @@
 title: "Euskara bantuaz diapo nagusiak"
 subtitle: Aurkezpen elebakar anitz koordinatuak
 author: "Verendia Guibelandia-Artaburu"
-output-dir: ../diapuk
 date: today
 format: 
     ehu-revealjs:

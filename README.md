@@ -69,6 +69,8 @@ Beharrezkoak:
 
 ## Diapoak
 
+Web batean denak batera [hemen](https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/)
+
 + Nagusiak  
   Hemendik agintzen zaie besteei:  
   https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/0-nausija-speaker.html

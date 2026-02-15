@@ -48,5 +48,5 @@ Segidako esteketatik segi liteke aurkezpena, norberari dagokion hizkuntzan, alda
 + Lunfa  
   <https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-lunfa.html>
 
-+ Italiora  
++ Italiera  
   <https://juanabasolo.github.io/ehu-revealjs/elebakarparaleloak/1-tano_nahi.html>

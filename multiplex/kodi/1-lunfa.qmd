@@ -8,8 +8,9 @@ format:
     ehuargia-revealjs:
         embed-resources: true
         multiplex: 
-            id: '2ca248311b2d7b73'
-            secret: '17283948361363936897'
+            secret: '62ace4ef65d8445a829ffc328c2bc106'
+            id: '48fafda5cce43477a41aca7b4f73a35e321d754805203e99ff0d3ccff02529ca'
+            url: 'https://multiplex.up.railway.app/'
 ---
 
 # Isa!

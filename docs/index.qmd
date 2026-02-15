@@ -1,6 +1,7 @@
 ---
 title: Zeren bila habil?
----
+subtitle: "Eguneratuta `r Sys.Date()`rekin"
+-`--
 
 EHUko tipografiarekin egindako revealjs txantiloi ilunaren adibidea?  
 [Hemen](ehu/)
@@ -11,3 +12,5 @@ EHUko tipografiarekin egindako revealjs txantiloi argiaren adibidea?
 Diapositiba elebakar piloari nola agindu euskarazko diapositiba nagusitik?  
 [Hemen adibidea](elebakarparaleloak/), honetan gorengo dagoen handiak aldatzen ditu beheko itzulpenagarriak.  
 [Hemen diapoen kodea](https://github.com/JuanAbasolo/ehu-revealjs/tree/main/multiplex/kodi) aztertu nahi bada
+
+

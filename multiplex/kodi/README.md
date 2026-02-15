@@ -9,12 +9,13 @@
 1. Fitxategi bakarra sortu beharrean, hizkuntzako bat sortu behar da aldagai berberak erabilita.
 1. Agindu behar ez duten fitxategiak, jaurti (nire kasuan, euskara bantuaz ez dauden fitxategi agintari guztiak)
 1. Eroan webgunera
-1. Pasa esteka(k) audientziari.
+1. Pasa esteka(k) audientziari.  
+   QR kodeak erabilita? <https://fietkau.software/qr>
 1. Egin aurkezpena
 
 ## Kasu zehatz honetakoak
 
-### kontuan izatekoak
+### Kontuan izatekoak
 
 * Nik Quarto darabilt 
 * EHUko itxurako txantiloiak darabiltzat
@@ -39,9 +40,22 @@ format:
         multiplex: 
             id: 'x0x0x0x0x0x0x' # eGokitu zurearekin
             secret: 'asdasdfasdfasdfa' # egokitu zurearekin
+            url: http://nire_zerbitzaria.eus # https://multiplex.up.railway.app izan ohi da
+
 ```
 
-`id` eta `secret` aldagaietarako balioak nik hemen sortu ditut: https://reveal-multiplex.glitch.me/  
+`id` eta `secret` aldagaietarako balioak nik hemen sortu ditut: ~~https://reveal-multiplex.glitch.me/~~. <2026-02-14>an egokituta: https://multiplex.up.railway.app  
+
 Hor Multiplex-ekoek zerbitzari bat dutelako erabilera publikorako prest. Baina norberarena ere sor omen daiteke. Berez, gorago aipatutako `secret` eta `sockedID` aldagaiak dira
 
 Quartoko webgunean [horren gaineko informazioa](https://quarto.org/docs/presentations/revealjs/presenting.html#multiplex)
+
+---
+
+## 2026an aurkitutako arazoak eta konponbideak
+
+Ibiltzeari utzi dio jatorrizkoa. Berriro ibili dadin beharrezkoa izan da:
+
++ Giltz berriak sortzea, oraingoan zerbitzari berrian. <https://multiplex.up.railway.app>.
++ YAML burua egokitzea eta `url` aldagaia egokitzea -informazio hori egokituta dago gorago-.
++ Zerbitzariak sortutako kodeak egoki sartzea. Oraingoan luzeagoa da `id`a `secret` baino.
